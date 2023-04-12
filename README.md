@@ -23,10 +23,11 @@ Hey, We're Team Logicbeans, we are Software Engineers from Pakistan with passion
   
 **Software Services We Provide:**
 
-- 👨🏽‍🌱 I’m currently Exploring Backend Development; 
-- 👯 I’m looking to collaborate on [FastAPI Boilerplate](https://github.com/rawheel/fastapi-boilerplate)🤝;
-- 💬 Ask me about Python, Vuejs, FastAPI ,Django, Flask,Desktop Applications, Web development, Datascience, Automation;
-- ⚡️ Fun-Fact: Recently I went on a solo trip in a total strange country. 
+- 🏽‍🌱 Custom Software Development - Developing software applications tailored to the specific needs of clients, based on their requirements. 
+- 👯 Mobile Application Development - Creating mobile applications for iOS and Android platforms.
+- 💬 Web Application Development - Building web-based software applications that can be accessed through web browsers.
+- ⚡️ Software Testing and Quality Assurance - Ensuring the software being developed is of high quality and meets the client's requirements.
+- 💬 UI/UX Design - Creating user-friendly interfaces and experiences for software applications.
 - 📫 How to reach me: logicbeans77@gmail.com;
 - 📝[Portfolio](link of portfolio)
 
