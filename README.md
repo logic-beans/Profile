@@ -16,22 +16,19 @@
 <br />
 <br />
 
-Hey there, I'm Raheel Siddiqui, a Software Engineer from Pakistan with passion for software engineering 🚀. I'm a first [@GitHub campus Expert](https://githubcampus.expert/rawheel/) from Karachi, Pakistan, Former Google Developer Student Club Lead [@googledevelopers](https://developers.google.com/community/dsc), Member of [@IEEE](https://www.ieee.org/), and AWS Community Builder. I love open source and have been contributing to the @MERL-UIT👨🏽‍💼[@MERL-UIT](https://github.com/merledu) project. I'm also the founder of [@pytroops](https://www.youtube.com/pytroops), a cool community for tech enthusiasts like me.
-
-When I'm not coding, I love jamming to music, exploring new places, binge-watching Tv Shows, and yeah, programming some more.
-
+Hey, We're Team Logicbeans, we are Software Engineers from Pakistan with passion for software engineering 🚀.
 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
-**Talking about Personal Stuffs:**
+**Software Services We Provide:**
 
 - 👨🏽‍🌱 I’m currently Exploring Backend Development; 
 - 👯 I’m looking to collaborate on [FastAPI Boilerplate](https://github.com/rawheel/fastapi-boilerplate)🤝;
 - 💬 Ask me about Python, Vuejs, FastAPI ,Django, Flask,Desktop Applications, Web development, Datascience, Automation;
 - ⚡️ Fun-Fact: Recently I went on a solo trip in a total strange country. 
-- 📫 How to reach me: raheelsiddiqui365@gmail.com;
-- 📝[Resume](https://docs.google.com/document/d/1BAMzLdp9dHGznI_onSYY1ay0v1SPsld_ORfpVh6UgPE/export?format=pdf)
+- 📫 How to reach me: logicbeans77@gmail.com;
+- 📝[Portfolio](link of portfolio)
 
 **Languages and Tools:**  
 
@@ -54,4 +51,4 @@ When I'm not coding, I love jamming to music, exploring new places, binge-watchi
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-⭐️ From [Raheel Siddiqui](https://raheelsiddiqui.com)
+⭐️ From [Team Logicbeans](portfolio link)
