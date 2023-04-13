@@ -23,11 +23,11 @@ Hey, We're Team Logicbeans, we are Software Engineers from Pakistan with passion
   
 **Software Services We Provide:**
 
-- 🏽‍🌱 Custom Software Development - Developing software applications tailored to the specific needs of clients, based on their requirements. 
-- 👯 Mobile Application Development - Creating mobile applications for iOS and Android platforms.
-- 💬 Web Application Development - Building web-based software applications that can be accessed through web browsers.
+-🏽‍⚡️ Custom Software Development - Developing software applications tailored to the specific needs of clients, based on their requirements. 
+- ⚡️ Mobile Application Development - Creating mobile applications for iOS and Android platforms.
+- ⚡️ Web Application Development - Building web-based software applications that can be accessed through web browsers.
 - ⚡️ Software Testing and Quality Assurance - Ensuring the software being developed is of high quality and meets the client's requirements.
-- 💬 UI/UX Design - Creating user-friendly interfaces and experiences for software applications.
+- ⚡️ UI/UX Design - Creating user-friendly interfaces and experiences for software applications.
 - 📫 How to reach me: logicbeans77@gmail.com;
 - 📝[Portfolio](link of portfolio)
 
